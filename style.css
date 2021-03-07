@@ -1,0 +1,57 @@
+nav {
+  height: 25px;
+  background-color: gray;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+a:hover {
+  color: #5C82D8;
+}
+
+a {
+  text-decoration: none;
+}
+
+.redbox {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 8px;
+  border: solid black 2px;
+}
+
+.bluebox {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  border-radius: 8px;
+  border: solid black 2px;
+}
+
+.greenbox {
+  background-color: green;
+  height: 250px;
+  width: 250px;
+  border-radius: 8px;
+  border: solid black 2px;
+}
+
+.purplebox {
+  background-color: purple;
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+  border: solid black 2px;
+}
+
+footer {
+  background-color: cyan;
+}
+
+body {
+  color: black;
+  background-color: lightgray;
+}
+
+/*# sourceMappingURL=style.css.map */
